@@ -17,8 +17,8 @@ The user should be able to request the following from the app:
 ##### Initialization and Switch System
 
 The App code begins by initializing the multiple node modules that will be used throughout the rest of the code. In addition the variable called "randInst" is set to **false** and will be used later in the app when calling up the "Text Instruction" function.
-![Initialized Modules](/markupImages/InitialCode.png)
+![Initialized Modules](markupImages/InitialCode.PNG)
 
 Once all the nodules are initialized the user's input is passed through a switch method in order to call up the user's desired result.
-![Switch Method](/markupImages/SwitchCommand.png)
+![Switch Method](markupImages/SwitchCommand.PNG)
 
