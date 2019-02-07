@@ -64,8 +64,15 @@ The movieGet function takes in the name of a movie in the form of a string, obta
 
 The results will be displayed as such:
 
-![movieGetResult Function](markupImages/MovieGetResults.PNG)
+![movieGetResult Function](markupImages/MovieGetResult.PNG)
 
 **Special Note:** if the user doesn't provide the name of a movie, the function will automatically default to "Mr. Nobody".
 
 ![movieGetBlank Function](markupImages/MovieGetBlank.PNG)
+
+##### randomIt function
+
+The randomIt function reads the text contained in the *random.txt* file and uses it to call up one of the previous functions through its own **switch** method. 
+
+![randomIt Function](markupImages/RandomFunction.PNG)
+
